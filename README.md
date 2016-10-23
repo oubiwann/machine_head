@@ -1,6 +1,6 @@
-# Machine Head, a Clojure MQTT Client
+# Machine Head
 
-Machine Head is a [Clojure MQTT client](http://clojuremqtt.info).
+*A [Clojure MQTT client](http://clojuremqtt.info)*
 
 
 ## Project Goals
