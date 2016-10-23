@@ -1,4 +1,4 @@
- # Machine Head, a Clojure MQTT Client
+# Machine Head, a Clojure MQTT Client
 
 Machine Head is a [Clojure MQTT client](http://clojuremqtt.info).
 
